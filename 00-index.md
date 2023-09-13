@@ -37,4 +37,6 @@ Julkaisu | 1.11. | 1.11. | 8.11. | 8.11. | 15.11. | 15.11. | 22.11. | 22.11. |
 
 Kurssin ohjausta järjestetään Discordissa, jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. [Liity ryhmään](https://study.cs.helsinki.fi/discord/join/tira)
 
+Lisäksi ohjausta on tarjolla Kumpulan kampuksella Exactumin salissa BK107 maanantaisin, torstaisin ja perjantaisin klo 13–16.
+
 Kurssin vastuuhenkilö syksyllä 2023 on Antti Laaksonen. Voit ottaa yhteyttä lähettämällä [sähköpostia](mailto:ahslaaks@cs.helsinki.fi).
