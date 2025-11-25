@@ -6,7 +6,7 @@ hide: true
     
 # Kurssin I-osan loppuraportti
 
-Kurssille osallistui 367 opiskelijaa, joista 232 (63.2 %) suoritti kurssin hyväksytysti.
+Kurssille osallistui 367 opiskelijaa, joista 209 (56.9 %) suoritti kurssin hyväksytysti.
 
 Arvosanajakauma:
 
@@ -24,7 +24,7 @@ Palautteen perusteella monen osallistujan mielestä nykyinen materiaali on hyvä
 
 Kurssin tehtävien vaikeudesta on monia näkemyksiä palautteessa. Osa kurssin osallistujista on tyytyväisiä kurssin tarjoamaan haasteeseen, mutta monien mielestä kurssi on liian vaikea erityisesti, jos tavoitteena on korkea arvosana. Tulevilla kursseilla koetetaan selventää tehtäviä ja lisätä niitä tukevaa materiaalia. Kuitenkin kurssilla tulee olemaan hyvin haastavia tehtäviä myös tulevaisuudessa.
 
-Verrattuna kurssin aiempiin toteutuksiin kurssin pääsi nyt läpi selvästi enemmän opiskelijoita. Syksyllä 2022 läpäisyprosentti oli 42.9 %, keväällä 2023 se oli 43.4 % ja nyt se on 63.2 %. Näyttää siis siltä, että kurssin uudistuksen seurauksena läpäisyprosentti on noussut huomattavasti. Tämä on hyvä suunta, kunhan kurssista ei tule liian helppo päästä läpi.
+Verrattuna kurssin aiempiin toteutuksiin kurssin pääsi nyt läpi selvästi enemmän opiskelijoita. Syksyllä 2022 läpäisyprosentti oli 42.9 %, keväällä 2023 se oli 43.4 % ja nyt se on 56.9 %. Näyttää siis siltä, että kurssin uudistuksen seurauksena läpäisyprosentti on noussut selkeästi. Tämä on hyvä suunta, kunhan kurssista ei tule liian helppo päästä läpi.
 
 ## Kurssipalaute
 
